@@ -23,7 +23,7 @@ If you want to contribue, easiest way is to click pencil icon on github to make 
 
 ### Demos related
   * [demostf/parser](https://github.com/demostf/parser) - rust(+wasm) - parse tf2 demos, used for demos.tf
-  * [demostf/cutter](https://github.com/demostf/cutter) - rust(+wasm) - cut tf2 demos, still WIP
+  * [demostf/edit](https://github.com/demostf/edit) - rust(+wasm) - edit tf2 demos, still WIP
   * [Square789/tf2_dem_py](https://github.com/Square789/tf2_dem_py) - C - C port of demostf/parser with python bindings
 
 ### Demo managers
