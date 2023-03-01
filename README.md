@@ -5,6 +5,8 @@ If you want to contribue, easiest way is to click pencil icon on github to make 
 
 ## Related Lists
   * [CriticalFlaw/awesome-tf2](https://github.com/CriticalFlaw/awesome-tf2) - Tf2 comunities and events
+  * [tf2 hud topic](https://github.com/topics/tf2-hud) - large collection of tf2 huds
+  
 
 ## Table of contents
 - [Logs related](#Logs-related)
@@ -12,6 +14,7 @@ If you want to contribue, easiest way is to click pencil icon on github to make 
 - [Demo managers](#Demo-managers)
 - [Discord bots](#Discord-bots)
 - [Hosting](#Hosting)
+- [Hud tools](#Hud-tools)
 
 ### Logs related
   * [Arie/logs_tf](https://github.com/Arie/logs_tf) - ruby - api wrapper for logs.tf
@@ -32,3 +35,7 @@ If you want to contribue, easiest way is to click pencil icon on github to make 
 
 ### Hosting
   * [spiretf](https://github.com/spiretf) - misc - tf2 server hosting related scripts/dockerfiles/tools/sourcespawn plugints
+  
+### Hud tools
+  * [CriticalFlaw](https://github.com/CriticalFlaw/TF2HUD.Editor) - C# - tf2 hud editor and installer
+  * [coolbros/hud-merger](https://github.com/cooolbros/hud-merger) - C# - merge components from different tf2 huds
