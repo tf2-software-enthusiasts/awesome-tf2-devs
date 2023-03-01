@@ -15,6 +15,7 @@ If you want to contribue, easiest way is to click pencil icon on github to make 
 - [Discord bots](#Discord-bots)
 - [Hosting](#Hosting)
 - [Hud tools](#Hud-tools)
+- [Format parsers](#Format-parsers)
 
 ### Logs related
   * [Arie/logs_tf](https://github.com/Arie/logs_tf) - ruby - api wrapper for logs.tf
@@ -40,3 +41,10 @@ If you want to contribue, easiest way is to click pencil icon on github to make 
 ### Hud tools
   * [CriticalFlaw](https://github.com/CriticalFlaw/TF2HUD.Editor) - C# - tf2 hud editor and installer
   * [coolbros/hud-merger](https://github.com/cooolbros/hud-merger) - C# - merge components from different tf2 huds
+
+### Format parsers
+  * [sourcenav](https://github.com/icewind1991/sourcenav) - rust - parser for `.nav` files
+  * [vmdl](https://github.com/icewind1991/vmdl) - rust - parser for `.mdl`, `.vtx` and `.vvd` files
+  * [vbsp](https://github.com/icewind1991/vbsp) - rust - parser for `bsp` files
+  * [vpk-rs](https://github.com/roman901/vpk-rs) - rust - parser for `vpk` files
+  * [vtf-rs](https://github.com/roman901/vtf-rs) - rust - parser for `vtf` files
