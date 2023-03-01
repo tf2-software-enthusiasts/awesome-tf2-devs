@@ -16,6 +16,7 @@ If you want to contribue, easiest way is to click pencil icon on github to make 
 - [Hosting](#Hosting)
 - [Hud tools](#Hud-tools)
 - [Format parsers](#Format-parsers)
+- [Recording tools](#Recording-tools)
 
 ### Logs related
   * [Arie/logs_tf](https://github.com/Arie/logs_tf) - ruby - api wrapper for logs.tf
@@ -49,3 +50,8 @@ If you want to contribue, easiest way is to click pencil icon on github to make 
   * [roman901/vpk-rs](https://github.com/roman901/vpk-rs) - rust - parser for `vpk` files
   * [roman901/vtf-rs](https://github.com/roman901/vtf-rs) - rust - parser and encoder for `vtf` files
   * [Mark-Prime/vdm](https://github.com/Mark-Prime/vdm) - rust - parser and encoder for `vdm` files
+
+### Recording tools
+  * [quanticc/lawena-recording-tool](https://github.com/quanticc/lawena-recording-tool) - Java - Simple movie recording tool for Source Engine games
+  * [advancedfx/advancedfx](https://github.com/advancedfx/advancedfx) - C++ - Advanced recording tools for Source Engine games
+  * [Mark-Prime/Ryukbotv2](https://github.com/Mark-Prime/Ryukbotv2) - python - Automated tf2 clip recording/gathering
