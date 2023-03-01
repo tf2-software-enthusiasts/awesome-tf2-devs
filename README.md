@@ -47,4 +47,5 @@ If you want to contribue, easiest way is to click pencil icon on github to make 
   * [icewind1991/vmdl](https://github.com/icewind1991/vmdl) - rust - parser for `.mdl`, `.vtx` and `.vvd` files
   * [icewind1991/vbsp](https://github.com/icewind1991/vbsp) - rust - parser for `bsp` files
   * [roman901/vpk-rs](https://github.com/roman901/vpk-rs) - rust - parser for `vpk` files
-  * [roman901/vtf-rs](https://github.com/roman901/vtf-rs) - rust - parser for `vtf` files
+  * [roman901/vtf-rs](https://github.com/roman901/vtf-rs) - rust - parser and encoder for `vtf` files
+  * [Mark-Prime/vdm](https://github.com/Mark-Prime/vdm) - rust - parser and encoder for `vdm` files
