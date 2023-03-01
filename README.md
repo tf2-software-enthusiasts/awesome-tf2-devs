@@ -36,15 +36,15 @@ If you want to contribue, easiest way is to click pencil icon on github to make 
 
 ### Hosting
   * [spiretf](https://github.com/spiretf) - misc - tf2 server hosting related scripts/dockerfiles/tools/sourcespawn plugints
-  * [dispenser](https://github.com/spiretf/dispenser) - rust - Automatically spawn and destroy a tf2 servers in the cloud on a schedule
+  * [spiretf/dispenser](https://github.com/spiretf/dispenser) - rust - Automatically spawn and destroy a tf2 servers in the cloud on a schedule
   
 ### Hud tools
   * [CriticalFlaw](https://github.com/CriticalFlaw/TF2HUD.Editor) - C# - tf2 hud editor and installer
   * [coolbros/hud-merger](https://github.com/cooolbros/hud-merger) - C# - merge components from different tf2 huds
 
 ### Format parsers
-  * [sourcenav](https://github.com/icewind1991/sourcenav) - rust - parser for `.nav` files
-  * [vmdl](https://github.com/icewind1991/vmdl) - rust - parser for `.mdl`, `.vtx` and `.vvd` files
-  * [vbsp](https://github.com/icewind1991/vbsp) - rust - parser for `bsp` files
-  * [vpk-rs](https://github.com/roman901/vpk-rs) - rust - parser for `vpk` files
-  * [vtf-rs](https://github.com/roman901/vtf-rs) - rust - parser for `vtf` files
+  * [icewind1991/sourcenav](https://github.com/icewind1991/sourcenav) - rust - parser for `.nav` files
+  * [icewind1991/vmdl](https://github.com/icewind1991/vmdl) - rust - parser for `.mdl`, `.vtx` and `.vvd` files
+  * [icewind1991/vbsp](https://github.com/icewind1991/vbsp) - rust - parser for `bsp` files
+  * [roman901/vpk-rs](https://github.com/roman901/vpk-rs) - rust - parser for `vpk` files
+  * [roman901/vtf-rs](https://github.com/roman901/vtf-rs) - rust - parser for `vtf` files
