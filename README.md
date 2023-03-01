@@ -52,6 +52,6 @@ If you want to contribue, easiest way is to click pencil icon on github to make 
   * [Mark-Prime/vdm](https://github.com/Mark-Prime/vdm) - rust - parser and encoder for `vdm` files
 
 ### Recording tools
-  * [icewind1991/sourcenav](https://github.com/icewind1991/sourcenav) - Java - Simple movie recording tool for Source Engine games
+  * [quanticc/lawena-recording-tool](https://github.com/quanticc/lawena-recording-tool) - Java - Simple movie recording tool for Source Engine games
   * [advancedfx/advancedfx](https://github.com/advancedfx/advancedfx) - C++ - Advanced recording tools for Source Engine games
   * [Mark-Prime/Ryukbotv2](https://github.com/Mark-Prime/Ryukbotv2) - python - Automated tf2 clip recording/gathering
