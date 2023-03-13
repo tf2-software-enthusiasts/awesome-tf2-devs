@@ -1,4 +1,6 @@
-# ![tf2-logo-sm](https://user-images.githubusercontent.com/16076573/224633090-04d4d701-8042-4e23-897c-ff37a1850b85.png) ![0a724b662d369f1b8a7b036ff9c8df4b](https://user-images.githubusercontent.com/16076573/224634234-66352b24-1559-488c-9c6c-f8678da032cb.png)
+# ![tf2-logo-sm](https://user-images.githubusercontent.com/16076573/224633090-04d4d701-8042-4e23-897c-ff37a1850b85.png) ![awesome-tf2-devs-3](https://user-images.githubusercontent.com/16076573/224677468-f8ddf5d5-7dbb-44e3-9f81-51d7ed45724a.png)
+
+
 
 
 > _**awesome-tf2-devs** by [tf2 software enthusiasts](https://github.com/tf2-software-enthusiasts)_
@@ -10,8 +12,10 @@
 If you want to contribue, easiest way is to click pencil icon on github to make a PR, we will most likely merge it.
 
 ## SIMILAR LISTS
-  * [CriticalFlaw/awesome-tf2](https://github.com/CriticalFlaw/awesome-tf2) - Tf2 comunities and events
-  * [tf2 hud topic](https://github.com/topics/tf2-hud) - large collection of tf2 huds
+  * [![CriticalFlaw - GH Pages](https://img.shields.io/badge/CriticalFlaw-GH_Pages-2ea44f?logo=Git&style=flat)](https://criticalflaw.github.io/awesome-tf2/) <img alt="Awesome Badge" src="https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667" data-canonical-src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" style="max-width: 100%;">   
+  TF2 comunities and events
+  * [![GH Topic - tf2-hud](https://img.shields.io/badge/GH_Topic-tf2--hud-f10f41?logo=github&logoColor=white)](https://github.com/topics/tf2-hud)   
+  large collection of tf2 huds
   
 
 ## TABLE of CONTENTS 
@@ -34,9 +38,12 @@ api wrapper for logs.tf
 recreation of tf2 log parser in js, used for demoticks.tf
 
 ### Demos related
-  * [demostf/parser](https://github.com/demostf/parser) - rust(+wasm) - parse tf2 demos, used for demos.tf
-  * [demostf/edit](https://github.com/demostf/edit) - rust(+wasm) - edit tf2 demos, still WIP
-  * [Square789/tf2_dem_py](https://github.com/Square789/tf2_dem_py) - C - C port of demostf/parser with python bindings
+  * [![demostf - parser](https://img.shields.io/static/v1?label=demostf&message=parser&color=blueviolet&logo=github)](https://github.com/demostf/parser "Go to GitHub repo") [![rust - (+wasm)](https://img.shields.io/badge/rust-(%2Bwasm)-pink?logo=rust&logoColor=ff69b4)](https://github.com/demostf/parser)  
+ parse tf2 demos, used for demos.tf
+  * [![demostf - editor](https://img.shields.io/static/v1?label=demostf&message=editor&color=c9f&logo=github)](https://github.com/demostf/editor "Go to GitHub repo")  [![rust - (+wasm)](https://img.shields.io/badge/rust-(%2Bwasm)-pink?logo=rust&style=flat&logoColor=ff69b4)](https://github.com/demostf/editor)   
+ edit tf2 demos, still `WIP`
+  * [![Square789 - tf2_dem_py](https://img.shields.io/static/v1?label=Square789&message=tf2_dem_py&color=green&logo=github)](https://github.com/Square789/tf2_dem_py "Go to GitHub repo") [![lang - GNU](https://img.shields.io/badge/lang-GNU-660911?logo=C&logoColor=white)](https://github.com/Square789/tf2_dem_py)  
+ C port of demostf/parser with python bindings
 
 ### Demo managers
   * [Narcha/DemoMan](https://github.com/Narcha/DemoMan) - typescript(electron) - desktop app to manage/tag tf2 demos 
@@ -71,9 +78,10 @@ recreation of tf2 log parser in js, used for demoticks.tf
 
 <div align="center">
 
-  ![creator - tommy](https://img.shields.io/badge/creator-tommy-5881D8?style=for-the-badge&logo=Clojure&logoColor=white) [![stylist - zod#1626](https://img.shields.io/badge/stylist-zod%231626-5865F2?style=for-the-badge&logo=Discord)](https://discord.gg/zodtf)   
+  ![contact - tommy](https://img.shields.io/badge/contact-tommy-5881D8?style=for-the-badge&logo=Clojure&logoColor=white) [![stylist - zod#1626](https://img.shields.io/badge/stylist-zod%231626-5865F2?style=for-the-badge&logo=Discord)](https://discord.gg/zodtf)   
   
 ![image](https://user-images.githubusercontent.com/16076573/224636694-64f4273e-6611-41d7-82d1-c2745633ee74.png)  
+<i> `zudsniper` | `tommy-mor` | `Icewind1991` | `Mark-Prime` | `c43721` </i>
 <h3>✔️✅✔️</h3>   
 
 </div>
