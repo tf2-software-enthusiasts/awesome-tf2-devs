@@ -38,6 +38,7 @@ If you want to contribue, easiest way is to click pencil icon on github to make 
 ### Hosting
   * [spiretf](https://github.com/spiretf) - misc - tf2 server hosting related scripts/dockerfiles/tools/sourcespawn plugints
   * [spiretf/dispenser](https://github.com/spiretf/dispenser) - rust - Automatically spawn and destroy a tf2 servers in the cloud on a schedule
+  * [vibeisveryo/rcon](https://github.com/vibeisveryo/rcon) - go - cli RCON utility
   
 ### Hud tools
   * [CriticalFlaw](https://github.com/CriticalFlaw/TF2HUD.Editor) - C# - tf2 hud editor and installer
