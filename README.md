@@ -6,6 +6,7 @@ If you want to contribue, easiest way is to click pencil icon on github to make 
 ## Related Lists
   * [CriticalFlaw/awesome-tf2](https://github.com/CriticalFlaw/awesome-tf2) - Tf2 comunities and events
   * [tf2 hud topic](https://github.com/topics/tf2-hud) - large collection of tf2 huds
+  * [mastercoms hud list](https://comfig.app/huds/) - spiritual successor to huds.tf, more comprehensive than github topic
   
 
 ## Table of contents
