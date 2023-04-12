@@ -29,15 +29,17 @@ If you want to contribue, easiest way is to click pencil icon on github to make 
 7️⃣ [Recording tools](./#Recording-tools)  
 
 --- 
-> _and we begin!_  
+> _I used `LaTeX` Styling to get faux "fancy" text for headers, but it does some crazy stuff to the kerning. I kinda think it fits the TF2 vibe but I totally understand if that isn't the general concensus._   
+> [@zudsniper](https://github.com/zudsniper)  
+    
 
-### Logs related
+### $LOGS$
   * [![Arie -  logs_tf](https://img.shields.io/badge/Arie-_logs__tf-2ea44f?style=flat&logo=GitHub)](https://github.com/Arie/logs_tf) [![Ruby](https://img.shields.io/badge/Ruby-FC2312?style=flat&logo=ruby)](https://github.com/Arie/logs_tf)  
 api wrapper for logs.tf
   * [![TheBV -  logstf-parser](https://img.shields.io/badge/TheBV-_logstf--parser-2ea44f?logo=GitHub)](https://github.com/Arie/logs_tf) [![TypeScript](https://img.shields.io/badge/TypeScript-white?logo=TypeScript)](https://github.com/TheBv/logstf-parser)  
 recreation of tf2 log parser in js, used for demoticks.tf
 
-### Demos related
+### $DEMOS$
   * [![demostf - parser](https://img.shields.io/static/v1?label=demostf&message=parser&color=blueviolet&logo=github)](https://github.com/demostf/parser "Go to GitHub repo") [![rust - (+wasm)](https://img.shields.io/badge/rust-(%2Bwasm)-pink?logo=rust&logoColor=ff69b4)](https://github.com/demostf/parser) [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)](https://github.com/icewind1991/sourcenav)    
  parse tf2 demos, used for demos.tf
   * [![demostf - editor](https://img.shields.io/static/v1?label=demostf&message=editor&color=c9f&logo=github)](https://github.com/demostf/editor "Go to GitHub repo")  [![rust - (+wasm)](https://img.shields.io/badge/rust-(%2Bwasm)-pink?logo=rust&style=flat&logoColor=ff69b4)](https://github.com/demostf/editor) [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)](https://github.com/icewind1991/sourcenav)     
@@ -45,32 +47,32 @@ recreation of tf2 log parser in js, used for demoticks.tf
   * [![Square789 - tf2_dem_py](https://img.shields.io/static/v1?label=Square789&message=tf2_dem_py&color=green&logo=github&logoColor=FFFFFF)](https://github.com/Square789/tf2_dem_py "Go to GitHub repo") [![lang - GNU](https://img.shields.io/badge/lang-GNU-660911?logo=C&logoColor=white)](https://github.com/Square789/tf2_dem_py)  
  C port of demostf/parser with python bindings
 
-### Demo managers
+### $DEMO$ $MANAGERS$
   * [![Narcha - DemoMan](https://img.shields.io/badge/Narcha-DemoMan-2ea44f?logo=GitHub)](https://github.com/Narcha/DemoMan) [![TypeScript](https://img.shields.io/badge/TypeScript-white?logo=TypeScript)](https://typescriptlang.org/)  
 desktop app to manage/tag tf2 demos  
   * [![Square789 - Demomgr](https://img.shields.io/badge/Square789-Demomgr-2ea44f?logo=GitHub)](https://github.com/Square789/Demomgr) [![Python](https://img.shields.io/static/v1?label=&message=Python&color=%234584b6&logo=python&logoColor=%23ffde57)](https://www.python.org/)  
 desktop app to manage/tag tf2 demos  
 
 
-### Discord bots
+### $DISCORD$ $BOTS$
   * [![payload-bot - payload-neo](https://img.shields.io/badge/payload--bot-payload--neo-7289da?logo=GitHub)](https://github.com/payload-bot/payload-neo) [![TypeScript](https://img.shields.io/badge/TypeScript-white?logo=TypeScript)](https://typescriptlang.org/)  
 general comp tf2 bot, servicing 50k+ users. payload.tf
   * [![TF2Autobot - tf2autobot](https://img.shields.io/badge/TF2Autobot-tf2autobot-FF4500?logo=GitHub)](https://github.com/TF2Autobot/tf2autobot) [![TypeScript](https://img.shields.io/badge/TypeScript-white?logo=TypeScript)](https://typescriptlang.org/)  
 trading bot using backpack.tf and prices.tf
 
-### Hosting
+### $SERVER$ $HOSTING$
   * [![spiretf - spiretf](https://img.shields.io/badge/spiretf-spiretf-ff0000?logo=GitHub)](https://github.com/spiretf)  [![VARIOUS](https://img.shields.io/badge/VARIOUS-ff0231)](https://github.com/spiretf)  
 tf2 server hosting related scripts/dockerfiles/tools/sourcespawn plugints
   * [![spiretf - dispenser](https://img.shields.io/badge/spiretf-dispenser-ff0000?logo=GitHub)](https://github.com/spiretf/dispenser) [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)](https://github.com/spiretf/dispenser)  
 Automatically spawn and destroy tf2 servers in the cloud on a schedule
 
-### Hud tools
+### $HUD$ $TOOLS$
   * [![CriticalFlaw - TF2HUD.Editor](https://img.shields.io/badge/CriticalFlaw-TF2HUD.Editor-4B0082?logo=GitHub)](https://github.com/CriticalFlaw/TF2HUD.Editor) [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&color=#A179DC)](https://github.com/CriticalFlaw/TF2HUD.Editor)  
 tf2 hud editor and installer
   * [![coolbros - hud-merger](https://img.shields.io/badge/coolbros-hud--merger-00FFFF?logo=GitHub)](https://github.com/cooolbros/hud-merger) [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&color=#A179DC)](https://github.com/cooolbros/hud-merger)  
 merge components from different tf2 huds
 
-### Format parsers
+### $FORMAT$ $PARSERS$
   * [![icewind1991 - sourcenav](https://img.shields.io/badge/icewind1991-sourcenav-009900?logo=GitHub)](https://github.com/icewind1991/sourcenav) [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)](https://github.com/icewind1991/sourcenav)  
   parser for `.nav` files 
   * [![icewind1991 - vmdl](https://img.shields.io/badge/icewind1991-vmdl-9C1F5F?logo=GitHub)](https://github.com/icewind1991/vmdl) [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)](https://github.com/icewind1991/vmdl)  
@@ -84,7 +86,7 @@ merge components from different tf2 huds
   * [![Mark-Prime - vdm](https://img.shields.io/badge/Mark--Prime-vdm-8B4513?logo=GitHub)](https://github.com/Mark-Prime/vdm) [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)](https://github.com/Mark-Prime/vdm)  
   parser and encoder for `vdm` files  
 
-### Recording tools
+### $RECORDING$ $TOOLS$
   * [![quanticc - lawena-recording-tool](https://img.shields.io/badge/quanticc-lawena--recording--tool-2C2E71?logo=GitHub)](https://github.com/quanticc/lawena-recording-tool) [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=oracle)](https://github.com/quanticc/lawena-recording-tool)  
   Simple movie recording tool for Source Engine games
   * [![advancedfx - advancedfx](https://img.shields.io/badge/advancedfx-advancedfx-FB3F3F?logo=GitHub)](https://github.com/advancedfx/advancedfx) [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)](https://github.com/advancedfx/advancedfx)  
