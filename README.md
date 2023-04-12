@@ -42,12 +42,15 @@ recreation of tf2 log parser in js, used for demoticks.tf
  parse tf2 demos, used for demos.tf
   * [![demostf - editor](https://img.shields.io/static/v1?label=demostf&message=editor&color=c9f&logo=github)](https://github.com/demostf/editor "Go to GitHub repo")  [![rust - (+wasm)](https://img.shields.io/badge/rust-(%2Bwasm)-pink?logo=rust&style=flat&logoColor=ff69b4)](https://github.com/demostf/editor)   
  edit tf2 demos, still `WIP`
-  * [![Square789 - tf2_dem_py](https://img.shields.io/static/v1?label=Square789&message=tf2_dem_py&color=green&logo=github)](https://github.com/Square789/tf2_dem_py "Go to GitHub repo") [![lang - GNU](https://img.shields.io/badge/lang-GNU-660911?logo=C&logoColor=white)](https://github.com/Square789/tf2_dem_py)  
+  * [![Square789 - tf2_dem_py](https://img.shields.io/static/v1?label=Square789&message=tf2_dem_py&color=green&logo=github&logoColor=FFFFFF)](https://github.com/Square789/tf2_dem_py "Go to GitHub repo") [![lang - GNU](https://img.shields.io/badge/lang-GNU-660911?logo=C&logoColor=white)](https://github.com/Square789/tf2_dem_py)  
  C port of demostf/parser with python bindings
 
 ### Demo managers
-  * [Narcha/DemoMan](https://github.com/Narcha/DemoMan) - typescript(electron) - desktop app to manage/tag tf2 demos 
-  * [Square/789](https://github.com/Square789/Demomgr) - python(tkinter) - desktop app to manage/tag tf2 demos
+  * [![Narcha - DemoMan](https://img.shields.io/badge/Narcha-DemoMan-2ea44f?logo=GitHub)](https://github.com/Narcha/DemoMan) [![TypeScript](https://img.shields.io/badge/TypeScript-white?logo=TypeScript)](https://github.com/Narcha/DemoMan)  
+desktop app to manage/tag tf2 demos  
+  * [![Square789 - Demomgr](https://img.shields.io/badge/Square789-Demomgr-2ea44f?logo=GitHub)](https://github.com/Square789/Demomgr) [![Python](https://img.shields.io/static/v1?label=&message=Python&color=%234584b6&logo=python&logoColor=%23ffde57)](https://www.python.org/)  
+desktop app to manage/tag tf2 demos  
+
 
 ### Discord bots
   * [payload-bot/payload-neo](https://github.com/payload-bot/payload-neo) - typescript - general comp tf2 bot, servicing 50k+ users. payload.tf
