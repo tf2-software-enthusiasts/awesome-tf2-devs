@@ -16,6 +16,8 @@ If you want to contribue, easiest way is to click pencil icon on github to make 
   TF2 comunities and events
   * [![GH Topic - tf2-hud](https://img.shields.io/badge/GH_Topic-tf2--hud-f10f41?logo=github&logoColor=white)](https://github.com/topics/tf2-hud)   
   large collection of tf2 huds
+  * [![mastercoms - HUD List](https://img.shields.io/badge/mastercoms-HUD_List-00786d?logo=Github%20Sponsors&style=flat&logoColor=white)](https://comfig.app/huds/)  
+  Spiritual successor to huds.tf, more comprehensive than GitHub topic
   
 
 ## TABLE of CONTENTS 
