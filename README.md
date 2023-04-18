@@ -67,6 +67,8 @@ trading bot using backpack.tf and prices.tf
 tf2 server hosting related scripts/dockerfiles/tools/sourcespawn plugints
   * [![spiretf - dispenser](https://img.shields.io/badge/spiretf-dispenser-ff0000?logo=GitHub)](https://github.com/spiretf/dispenser) [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)](https://github.com/spiretf/dispenser)  
 Automatically spawn and destroy tf2 servers in the cloud on a schedule
+  * [![vibeisveryo - rcon](https://img.shields.io/badge/vibeisveryo_-_rcon-c784a1?logo=Github&style=flat&logoColor=white)](https://github.com/vibeisveryo/rcon) [![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)  
+cli RCON utility
 
 ### $HUD$ $TOOLS$
   * [![CriticalFlaw - TF2HUD.Editor](https://img.shields.io/badge/CriticalFlaw-TF2HUD.Editor-4B0082?logo=GitHub)](https://github.com/CriticalFlaw/TF2HUD.Editor) [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&color=#A179DC)](https://github.com/CriticalFlaw/TF2HUD.Editor)  
@@ -100,7 +102,7 @@ merge components from different tf2 huds
 
 <div align="center">
 
-  ![contact - tommy](https://img.shields.io/badge/contact-tommy-5881D8?style=for-the-badge&logo=Clojure&logoColor=white) [![stylist - zod#1626](https://img.shields.io/badge/stylist-zod%231626-5865F2?style=for-the-badge&logo=Discord)](https://discord.gg/zodtf)   
+  ![contact - tommy](https://img.shields.io/badge/contact-tommy-5881D8?style=for-the-badge&logo=Clojure&logoColor=white) [![stylist - zod#1626](https://img.shields.io/badge/stylist-zod%231626-5865F2?style=for-the-badge&logo=Discord)](https://discord.com/users/260934923261706260)   
   
 ![image](https://user-images.githubusercontent.com/16076573/224636694-64f4273e-6611-41d7-82d1-c2745633ee74.png)  
 <i> `zudsniper` | `tommy-mor` | `Icewind1991` | `Mark-Prime` | `c43721` </i>
