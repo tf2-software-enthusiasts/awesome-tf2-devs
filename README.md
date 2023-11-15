@@ -57,3 +57,10 @@ If you want to contribue, easiest way is to click pencil icon on github to make 
   * [quanticc/lawena-recording-tool](https://github.com/quanticc/lawena-recording-tool) - Java - Simple movie recording tool for Source Engine games
   * [advancedfx/advancedfx](https://github.com/advancedfx/advancedfx) - C++ - Advanced recording tools for Source Engine games
   * [Mark-Prime/Ryukbotv2](https://github.com/Mark-Prime/Ryukbotv2) - python - Automated tf2 clip recording/gathering
+
+### Datasets
+
+ * [parsed logs.tf logs](https://drops.tf/logs/dump/logs.sql.gz) - PostgreSQL dump - Logs from logs.tf in the json format returned by the API - Updated weekly
+ * [normlaized logs.tf data](https://drops.tf/logs/dump/logs.sql.gz) - PostgreSQL dump - Data from logs.tf in normalized form for easier analysis - Updated weekly
+ * [raw logs.tf logs](https://drops.tf/logs/archive/) - [dwarfs](https://github.com/mhx/dwarfs) archive - Raw log files from the first 3 million logs.tf logs (newer logs can be found [here](https://drops.tf/logs/logs/3000000/))
+ * [drops.tf metadata](https://freezer.demos.tf/database/demostf.sql.gz) - PostgreSQL dump - Metadata from all demos.tf uploads - Updated weekly
