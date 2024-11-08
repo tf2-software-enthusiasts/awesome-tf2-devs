@@ -22,6 +22,7 @@ If you want to contribue, easiest way is to click pencil icon on github to make 
 ### Logs related
   * [Arie/logs_tf](https://github.com/Arie/logs_tf) - ruby - api wrapper for logs.tf
   * [TheBv/logstf-parser](https://github.com/TheBv/logstf-parser) - typescript - recreation of tf2 log parser in js, used for demoticks.tf
+  * [tf2software/logstf](https://github.com/tf2-software-enthusiasts/the-library) - typescript - api wrapper and types for logs.tf
 
 ### Demos related
   * [demostf/parser](https://github.com/demostf/parser) - rust(+wasm) - parse tf2 demos, used for demos.tf
@@ -40,6 +41,8 @@ If you want to contribue, easiest way is to click pencil icon on github to make 
   * [spiretf](https://github.com/spiretf) - misc - tf2 server hosting related scripts/dockerfiles/tools/sourcespawn plugints
   * [spiretf/dispenser](https://github.com/spiretf/dispenser) - rust - Automatically spawn and destroy a tf2 servers in the cloud on a schedule
   * [vorboyvo/rcon](https://github.com/vorboyvo/rcon) - go - cli RCON utility
+  * [rcontf/rcon](https://github.com/rcontf/rcon) - typescript - library for interacting with the rcon protocol
+  * [rcontf/srcds-logs](https://github.com/rcontf/srcds-logs) - typescript - library for interacting with the srcds udp protocol
   
 ### Hud tools
   * [CriticalFlaw](https://github.com/CriticalFlaw/TF2HUD.Editor) - C# - tf2 hud editor and installer
