@@ -14,6 +14,7 @@ If you want to contribue, easiest way is to click pencil icon on github to make 
 - [Demos related](#Demos-related)
 - [Demo managers](#Demo-managers)
 - [Discord bots](#Discord-bots)
+- [Trading tools](#Trading-tools)
 - [Hosting](#Hosting)
 - [Hud tools](#Hud-tools)
 - [Format parsers](#Format-parsers)
@@ -36,6 +37,9 @@ If you want to contribue, easiest way is to click pencil icon on github to make 
 ### Discord bots
   * [payload-bot/payload-neo](https://github.com/payload-bot/payload-neo) - typescript - general comp tf2 bot, servicing 50k+ users. payload.tf
   * [TF2Autobot/tf2autobot](https://github.com/TF2Autobot/tf2autobot) - typescript - trading bot using backpack.tf and prices.tf
+
+### Trading tools
+  * [hyunjun12312/steam-market-fee-calculator](https://github.com/hyunjun12312/steam-market-fee-calculator) - javascript - open-source Steam Community Market buyer price, seller proceeds, and fee calculator with a [GitHub Pages demo](https://hyunjun12312.github.io/steam-market-fee-calculator/) and [localized version](https://steamvaults.org/tools/steam-market-fee-calculator)
 
 ### Hosting
   * [spiretf](https://github.com/spiretf) - misc - tf2 server hosting related scripts/dockerfiles/tools/sourcespawn plugints
